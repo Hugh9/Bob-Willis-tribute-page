@@ -41,4 +41,31 @@
    #img-caption {text-align: center;}
    #title {text-align: center;}
    #wiki-link {text-align: center;}
+
+
+   #image {
+    width: 100%;
+    height: auto;
+    max-width: 625px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+h1 {
+    font-size: 3em;
+    color: rgb(74, 80, 26);
+    background-color: rgb(80, 191, 255);
+}
+body {
+    background-color: cadetblue;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+      .center {
+        margin: auto;
+        width: 50%;
+        border: 3px solid blue;
+        padding: 10px;
+      }
     
